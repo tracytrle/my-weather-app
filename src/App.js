@@ -1,4 +1,3 @@
-import { set } from "harmony-reflect";
 import React, { useState, useEffect } from "react";
 
 const api = {
